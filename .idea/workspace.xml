@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="586bff51-9e3b-4444-b2a5-b1b8b53421b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Jintao Ding\PhpstormProjects\.github.io\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfcejJXWqcGBvmSuFJ9VfZk27q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="586bff51-9e3b-4444-b2a5-b1b8b53421b1" name="Default Changelist" comment="" />
+      <created>1592819684719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592819684719</updated>
+      <workItem from="1592819686244" duration="988000" />
+      <workItem from="1592820729514" duration="6641000" />
+      <workItem from="1592829808433" duration="1480000" />
+      <workItem from="1592831328102" duration="2728000" />
+      <workItem from="1592835824277" duration="1636000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Title">
+      <created>1592821475683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592821475683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Title">
+      <created>1592821940535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592821940535</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Title">
+      <created>1592822042427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592822042427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Title">
+      <created>1592822154222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592822154222</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Title">
+      <created>1592822192881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592822192881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Title">
+      <created>1592822687980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592822687980</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Liste">
+      <created>1592829985927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592829985927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Liste">
+      <created>1592830154855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592830154855</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Zitat">
+      <created>1592835957080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592835957080</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Zitat">
+      <created>1592836328020</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592836328020</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Zitat">
+      <created>1592836631458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592836631458</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Title" />
+    <MESSAGE value="Added Liste" />
+    <MESSAGE value="Added Zitat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Zitat" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4438" y="118" key="CommitChangelistDialog2" timestamp="1592836630426">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4438" y="118" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592836630426" />
+    <state x="4512" y="237" key="MultipleFileMergeDialog" timestamp="1592836734577">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4512" y="237" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592836734577" />
+    <state x="4392" y="256" key="Vcs.Push.Dialog.v2" timestamp="1592836797179">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4392" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592836797179" />
+    <state x="4581" y="236" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592830556187">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4581" y="236" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592830556187" />
+    <state x="4571" y="323" key="git4idea.merge.GitMergeDialog" timestamp="1592836724126">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4571" y="323" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592836724126" />
+    <state x="4521" y="323" key="git4idea.merge.GitPullDialog" timestamp="1592836556624">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4521" y="323" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592836556624" />
+  </component>
+</project>
